@@ -112,7 +112,7 @@ Environmental challenges rarely exist within a single perspective or sensing mod
 
 </details>
  
-## 🗞️ AI for Media Analysis
+## 📰 AI for Media Analysis
 🔗 **Website:** https://ainewsanalysis.org/
 
 <details>
@@ -168,7 +168,7 @@ Modern media exists across text, images, video, and audio. By combining advances
 
 </details>
 
-## 🎓 AI Literacy
+## 📚 AI Literacy
 🔗 **Website:** https://ai4all.mt/
 
 <details>
