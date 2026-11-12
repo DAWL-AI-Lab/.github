@@ -5,7 +5,7 @@
 <h1 align="center">Dawl AI Lab</h1>
 
 <p align="center">
-  <strong>Applied Artificial Intelligence · University of Malta</strong>
+  <strong>Department of Artificial Intelligence · University of Malta</strong>
 </p>
 
 <p align="center">
@@ -18,12 +18,6 @@
   <a href="https://www.um.edu.mt/research/dawl/publications/"><img src="https://img.shields.io/badge/Publications-541522?style=for-the-badge" alt="Publications" /></a>
 </p>
 
-<p align="center">
-  <sub>Department of Artificial Intelligence · Faculty of Information & Communication Technology · University of Malta</sub>
-</p>
-
----
-
 ## About the lab
 
 **Dawl AI Lab** is an applied AI research laboratory within the [Department of Artificial Intelligence](https://www.um.edu.mt/ict/ai/) at the [University of Malta](https://www.um.edu.mt/). Led by [Dr Dylan Seychell](https://www.um.edu.mt/profile/dylanseychell), the lab brings together researchers, students and collaborators to develop and evaluate AI systems in real operational settings.
@@ -34,8 +28,6 @@ Our work is **research-led, application-driven and rooted in Malta**, with an em
 
 ## Two research pillars
 
-Our work follows the **two pillars defined on our [official website](https://www.um.edu.mt/research/dawl/aboutus/)**:
-
 | **01 / Environment** | **02 / Information** |
 | :--- | :--- |
 | Applying computer vision, machine learning, drones and geospatial AI to environmental sustainability, mapping, infrastructure and public-service operations. | Applying natural language processing, multimodal AI and explainable methods to media transparency, representation analysis and public AI literacy. |
@@ -44,8 +36,6 @@ Our work follows the **two pillars defined on our [official website](https://www
 The **Information** pillar encompasses two complementary strands: **Media Analysis** and **AI Literacy**.
 
 ## Research and projects
-
-Our projects span applied research, prototype development and validation with real-world partners. The summaries below are introductions; the [University of Malta project directory](https://www.um.edu.mt/research/dawl/projects/) is the primary source for project details and updates.
 
 ### Environment
 
@@ -68,9 +58,9 @@ Our projects span applied research, prototype development and validation with re
 
 ### Information / AI Literacy
 
-**NAIL — National AI Literacy Programme** supports accessible AI education and responsible adoption. Developed through collaboration involving the Malta Digital Innovation Authority and the University of Malta, the initiative makes foundational and practical learning available through **[AI Għal Kulħadd / AI4All](https://ai4all.mt/)**.
-
-The programme addresses AI fundamentals, critical and safe use, everyday applications, and learning pathways for different audiences.
+| Project | What we're working on |
+| :--- | :--- |
+| **NAIL** · National AI Literacy Programme | Advancing AI literacy and responsible adoption through accessible education, practical training and tailored learning pathways for diverse audiences, in collaboration with the Malta Digital Innovation Authority and the University of Malta via the [AI Għal Kulħadd / AI4All](https://ai4all.mt/) platform. |
 
 ## Our expertise
 
@@ -84,20 +74,10 @@ Across these projects, we work at the intersection of:
 
 Explore our [research specialisations](https://www.um.edu.mt/research/dawl/specialisation/) for more detail.
 
-## Research outputs
-
-Our work contributes to peer-reviewed research, applied systems and public-interest initiatives.
-
-**Selected publications**
-
-- **2026 ·** M. Bartolo *et al.*, "[Litter detection from aerial imagery: a review of UAV-based approaches and deep learning techniques](https://doi.org/10.1007/s11042-026-21440-1)," *Multimedia Tools and Applications*.
-- **2026 ·** A. F. Lucas and D. Seychell, "[A Hybrid Deterministic Framework for Named Entity Extraction in Broadcast News Video](https://ieeexplore.ieee.org/document/11536149)," *IEEE Conference on Artificial Intelligence (CAI)*.
-
-For the current and complete list, visit [Publications](https://www.um.edu.mt/research/dawl/publications/). Our [Impact](https://www.um.edu.mt/research/dawl/impact/) page describes how research is translated into operational tools and broader societal benefit.
 
 ## People and collaboration
 
-The lab is led by **[Dr Dylan Seychell](https://www.um.edu.mt/profile/dylanseychell)** and brings together research support officers, academic mentors and collaborators from AI, engineering, media, law and communication.
+The lab brings together research support officers, academic mentors and collaborators from AI, engineering, media, law and communication.
 
 We work with public authorities, research institutions and industry partners to develop, test and validate applied AI systems. See our [People](https://www.um.edu.mt/research/dawl/people/) and [Collaborators](https://www.um.edu.mt/research/dawl/collaborators/) pages.
 
@@ -107,16 +87,10 @@ We work with public authorities, research institutions and industry partners to 
   <a href="mailto:dawl.research@um.edu.mt"><img src="https://img.shields.io/badge/Contact_Us-dawl.research%40um.edu.mt-541522?style=flat-square" alt="Email Dawl AI Lab" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.um.edu.mt/research/dawl/contactus/">Contact details</a> ·
-  <a href="https://www.um.edu.mt/research/dawl/news/">News</a> ·
-  <a href="https://www.um.edu.mt/research/dawl/">Official website</a>
-</p>
-
 ---
 
-<sub><strong>About these repositories:</strong> This GitHub organisation hosts selected software and research resources. Some project repositories, datasets, models or documentation may not be publicly available because of publication timelines, partnership arrangements, licensing or data-protection requirements. For an overview of the lab's full portfolio, refer to the <a href="https://www.um.edu.mt/research/dawl/">official Dawl AI Lab website</a>.</sub>
+<sub><strong>About these repositories:</strong> This GitHub organisation hosts selected software and research resources. Some project repositories, datasets, models or documentation may not be publicly available because of publication timelines, partnership arrangements, licensing or data-protection requirements.</sub>
 
 <p align="center">
-  <sub>© Dawl AI Lab · Department of Artificial Intelligence · University of Malta · Msida, Malta</sub>
+  <sub>© Dawl AI Lab · Department of Artificial Intelligence · University of Malta</sub>
 </p>
